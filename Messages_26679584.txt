@@ -1,0 +1,13 @@
+[2025-09-20 02:29:06] Deposit of 30000 EGP successful. New Balance: 30000.000000
+[2025-09-20 02:29:08] Withdrawal of 1000 EGP successful. New Balance: 29000.000000
+[2025-09-20 02:29:17] Deposit of 30000 EGP successful. New Balance: 59000.000000
+[2025-09-20 02:33:04] ========== Transfer Receipt (Received) ==========
+ Amount Received    : 2500.00 EGP
+ From (Name)        : Abdelrahman Essam
+ Your New Balance   : 61500.00 EGP
+----------------------------------------------
+ Date & Time        : 2025-09-20 02:33:04
+==============================================
+
+[2025-09-20 02:36:28] Deposit of 30000 EGP successful. New Balance: 91500.000000
+[2025-09-20 02:36:32] Withdrawal of 2500 EGP successful. New Balance: 89000.000000
