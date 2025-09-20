@@ -495,6 +495,7 @@ void DeleteAccount()
     SaveAccountsFromFile();
 
     cout << "Account deleted successfully.\n";
+    AdminMenu();
 }
 //-----------------------------------------
 void Transfer(int accountIndex) {
@@ -1680,6 +1681,7 @@ void FreezeAccount() {
 
     users[index].isFrozen = true;
     cout << "Account (" << users[index].Name << ") has been frozen successfully.\n";
+    AdminMenu();
     SaveAccountsFromFile();
 }
 //-----------------------------------------
@@ -1753,6 +1755,7 @@ void UnFreezeAccount() {
     users[index].isFrozen = false;
     cout << "Account (" << users[index].Name << ") has been unfrozen successfully.\n";
     SaveAccountsFromFile();
+    AdminMenu();
 }
 //-----------------------------------------
 void ViewBalance(int accountIndex)
