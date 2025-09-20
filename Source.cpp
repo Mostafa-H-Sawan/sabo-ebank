@@ -1300,6 +1300,7 @@ void AdminViewAccountTransactions() {
 
     if (accountIndex != -1) {
         ViewTransactions(accountIndex);
+        AdminMenu();
     }
     else {
         cout << "Account not found.\n";
